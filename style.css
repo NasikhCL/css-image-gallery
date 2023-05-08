@@ -5,10 +5,13 @@
 .container{
 
     background-color: #d2cfcf;
-    padding-top: 10px;
+    padding:0 10px 0 10px;
     color: #434343;
     text-align: center; 
     min-height: 100vh;
+}
+.pt-10{
+    padding-top: 10px
 }
 .gallery {
     display: grid;
